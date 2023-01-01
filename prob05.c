@@ -1,0 +1,13 @@
+#msn
+prb 5
+#include <stdio.h>
+
+int main()
+{
+    int A,B,PROD;
+    scanf("%d %d",&A,&B);
+    PROD=A*B;
+    printf("PROD = %d",PROD);
+
+    return 0;
+}
